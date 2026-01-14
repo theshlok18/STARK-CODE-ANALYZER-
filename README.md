@@ -1,5 +1,5 @@
 
-# 🚀 Stark Code Analyzer.
+# 🚀 Stark Code Analyzer
 
 Advanced AI-Powered Code Analysis & Optimization Platform
 
